@@ -35,7 +35,7 @@ I'm a <b>Electronics Engineering student</b> at <b>Rajkiya Engineering College, 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/kallakruparaju/main/images/tools.gif" width="380" height="240"/>
   
 
-Currently working on popular technologies like <b>Core Java, Spring Boot, MySQL, HTML/CSS,  Web Technologies, Git and GitHub Data Structure and Algorithms, Networking and Troubleshooting, Operating System</b>
+Currently working on popular technologies like <b>Core Java, Spring Boot, MySQL, HTML, CSS,  Web Technologies, Git and GitHub Data Structure and Algorithms, Networking and Troubleshooting, Operating System</b>
 
   <b>DevOps Tools</b>
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
