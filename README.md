@@ -6,7 +6,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallakruparaju/kallakruparaju/main/images/welcome.gif" width="380" height="240"/>
 <h3>Welcome to my profile ‼️</h3>
 
-I'm a <b>Electronics Engineering student</b> at <b>Rajkiya Engineering College, Kannauj</b>. I'm a Curious and tech enthusiast person Highly Interested to work in the <b>Devops</b> and <b>Cloud approaches</b>. I am always passionate about understanding the core concepts behind the popular technologies. I am Keen to learn new things every day and <b>passionate about exploring new technologies and Intergrating different technologies</b>. Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
+I'm a <b>Electronics Engineering student</b> at <b>Rajkiya Engineering College, Kannauj</b>. I'm a Curious and tech enthusiast person Highly Interested to work in the <b>Web Development</b> and <b>Software Designing approaches</b>. I am always passionate about understanding the core concepts behind the popular technologies. I am Keen to learn new things every day and <b>passionate about exploring new technologies and Intergrating different technologies</b>. Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
  </div>
  
 <div>
